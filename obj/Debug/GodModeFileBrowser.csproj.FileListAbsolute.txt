@@ -1,0 +1,7 @@
+D:\Coding\C#\GodModeFileExplorer\bin\Debug\GMFB.exe.config
+D:\Coding\C#\GodModeFileExplorer\bin\Debug\GMFB.exe
+D:\Coding\C#\GodModeFileExplorer\bin\Debug\GMFB.pdb
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GodModeFileBrowser.csproj.AssemblyReference.cache
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GodModeFileBrowser.csproj.CoreCompileInputs.cache
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GMFB.exe
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GMFB.pdb

@@ -1,0 +1,7 @@
+D:\Coding\C#\GodModeFileExplorer\bin\Debug\GodModeFileExplorer.exe.config
+D:\Coding\C#\GodModeFileExplorer\bin\Debug\GodModeFileExplorer.exe
+D:\Coding\C#\GodModeFileExplorer\bin\Debug\GodModeFileExplorer.pdb
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GodModeFileExplorer.csproj.AssemblyReference.cache
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GodModeFileExplorer.csproj.CoreCompileInputs.cache
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GodModeFileExplorer.exe
+D:\Coding\C#\GodModeFileExplorer\obj\Debug\GodModeFileExplorer.pdb
